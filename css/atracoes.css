@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+
+ul{
+    padding-bottom: 10%;
+    margin-bottom: 20%;
+    list-style: none;
+    background-color: gray;
+    height: 340px;
+    padding: 30px;
+    margin-left: 150px;
+    margin-right: 40px;
+    margin-top: 10px;
+    width: 325px;
+    border-radius: 15px;
+    background-image: linear-gradient(45deg,  #310144, #600086, #310144);
+    border: 1px solid #bc00d4;
+    float: left; 
+}
+p{
+    font-size: 21px;
+    text-align: center;
+}
+
+.container__img{
+    width: 300px;
+    height: 250px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 auto 5px;
+    overflow: hidden;
+    position: relative;
+    top: 0%;
+}
+
+
+.container__titulo2{
+    color: white;
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.container__titulo{
+    color: white;
+    text-align: center;
+    font-family: "Creepster", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.container__texto{
+    color: white;
+}
+
+div{
+    color: #c57be2;
+    text-align: center;
+    position: absolute;
+    top: 780%;
+    left: 38.5%;
+}
+div p{
+    text-align: justify;
+    position: absolute;
+    left: 0;
+}
+
+
+
+
+
+
